@@ -56,3 +56,7 @@ See `requirements.txt` for the list of Python libraries needed.
 ## License
 
 This project is released under the MIT License.
+
+## Further Improvements
+
+You can enhance this project by tuning the model, experimenting with additional algorithms (e.g., Gradient Boosting, SVM), or integrating real-world datasets to validate findings.
