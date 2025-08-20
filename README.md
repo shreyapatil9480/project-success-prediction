@@ -22,3 +22,10 @@ pip install -r requirements.txt
 jupyter notebook notebooks/analysis.ipynb
 ```
 
+
+## Next Steps
+
+Automate SQL exports into a weekly stakeholder report.
+
+---
+*Analytics portfolio project — 2025-08*
